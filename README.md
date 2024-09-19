@@ -2,7 +2,7 @@
 ## ECE BOARD EXAM PROBLEM
 
 ### Filename: Instru = ["Name", "GEAS", "Electronics >70"]
-### Track is constant as Instrumentation, and Hometown as Luzon
+### This code subsets data with the parameters: Track is constant as Instrumentation, and Hometown as Luzon
 
 #### Import pandas library to be able to use phyton data analysis
 ``` python
